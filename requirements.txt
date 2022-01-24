@@ -370,7 +370,6 @@ wordcloud==1.5.0
 wrapt==1.13.3
 xarray==0.18.2
 xgboost==0.90
-xkit
 xlrd
 xlwt
 yellowbrick
