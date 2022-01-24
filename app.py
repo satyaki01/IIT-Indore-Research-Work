@@ -47,7 +47,7 @@ model_8.add(core.Dropout(.3))
 model_8.add(Dense(1,activation='linear'))
 model_8.compile(optimizer="adam", loss='mse',metrics=['mse'])
 from keras.models import load_model
-model_8.load_weights('"D:\Solar Wind Speed Data\train_weights_183l_frgb.h5"')
+model_8.load_weights('.\train_weights_183l_frgb.h5')
 st.set_option('deprecation.showfileUploaderEncoding', False)
 @st.cache(allow_output_mutation=True)
 @st.cache(suppress_st_warning=True)
