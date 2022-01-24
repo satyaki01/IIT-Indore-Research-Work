@@ -77,7 +77,6 @@ pyzmq
 requests==2.27.1
 Send2Trash==1.8.0
 six==1.16.0
-shutil
 smmap==5.0.0
 stack-data==0.1.4
 streamlit==1.4.0
