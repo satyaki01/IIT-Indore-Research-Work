@@ -300,7 +300,6 @@ requests==2.23.0
 requests-oauthlib==1.3.0
 resampy==0.2.2
 retrying==1.3.3
-rpy2
 rsa
 scikit-image==0.18.3
 scikit-learn==1.0.2
