@@ -128,7 +128,7 @@ while(1):
   plt.bar(labels,values,color='green',width=0.4)
   plt.title("Latest | Actual vs Predicted")
   plt.savefig('foo.jpg', bbox_inches='tight',dpi=100,transparent=False)
-  img2="/content/foo.jpg"
+  img2="foo.jpg"
   image_holder2.image(img2,use_column_width=True)
   time.sleep(900)
 
