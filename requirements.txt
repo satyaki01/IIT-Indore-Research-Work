@@ -73,7 +73,6 @@ pyrsistent
 python-dateutil
 pytz
 pytz-deprecation-shim
-pywinpty
 pyzmq
 requests
 Send2Trash
